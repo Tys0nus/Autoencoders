@@ -2,4 +2,4 @@
 
 # Sim Output:
 
-![]output/output.png)
+![](https://github.com/Tys0nus/Autoencoders/main/blob/output/output.png)
